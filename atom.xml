@@ -66,7 +66,7 @@
     <link href="http://yoursite.com/2016/09/04/Apache-URL-rewrite/"/>
     <id>http://yoursite.com/2016/09/04/Apache-URL-rewrite/</id>
     <published>2016-09-04T09:31:40.000Z</published>
-    <updated>2016-09-04T09:37:40.000Z</updated>
+    <updated>2016-09-04T09:43:43.000Z</updated>
     
     <content type="html"><![CDATA[<p>啟動 rewrite<br><code>RewriteEngine On</code></p>
 <p>Condition test<br><code>RewriteCond %{REQUEST_FILENAME} -f [OR]</code></p>
