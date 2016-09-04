@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-04T09:41:01.000Z</updated>
+  <updated>2016-09-04T15:51:29.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,14 +20,16 @@
     <link href="http://yoursite.com/2016/09/04/Node-garbage-collection/"/>
     <id>http://yoursite.com/2016/09/04/Node-garbage-collection/</id>
     <published>2016-09-04T09:40:46.000Z</published>
-    <updated>2016-09-04T09:41:01.000Z</updated>
+    <updated>2016-09-04T15:51:29.000Z</updated>
     
-    <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">node --expose-gc test.js</div></pre></td></tr></table></figure>
+    <content type="html"><![CDATA[<p>In code<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">global.gc();</div></pre></td></tr></table></figure></p>
+<p>Run script<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">node --expose-gc test.js</div></pre></td></tr></table></figure></p>
+<p><a href="https://blog.eood.cn/node-js_gc" target="_blank" rel="external">ref</a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;lin
+      &lt;p&gt;In code&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;
     
     </summary>
     
@@ -66,7 +68,7 @@
     <link href="http://yoursite.com/2016/09/04/Apache-URL-rewrite/"/>
     <id>http://yoursite.com/2016/09/04/Apache-URL-rewrite/</id>
     <published>2016-09-04T09:31:40.000Z</published>
-    <updated>2016-09-04T09:43:43.000Z</updated>
+    <updated>2016-09-04T15:48:55.000Z</updated>
     
     <content type="html"><![CDATA[<p>啟動 rewrite<br><code>RewriteEngine On</code></p>
 <p>Condition test<br><code>RewriteCond %{REQUEST_FILENAME} -f [OR]</code></p>
@@ -93,7 +95,7 @@
     <link href="http://yoursite.com/2016/09/04/Linux-nohup/"/>
     <id>http://yoursite.com/2016/09/04/Linux-nohup/</id>
     <published>2016-09-04T09:28:35.000Z</published>
-    <updated>2016-09-04T09:37:19.000Z</updated>
+    <updated>2016-09-04T15:51:45.000Z</updated>
     
     <content type="html"><![CDATA[<p>Linux 遠端 ssh 背景執行指令不中斷<br><a href="http://dragonspring.pixnet.net/blog/post/33257496-%5Blinux%5Btips%5Dnohup%3A-讓command在遠端執行，不因登出" target="_blank" rel="external">nohub</a></p>
 ]]></content>
