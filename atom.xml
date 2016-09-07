@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-05T16:18:29.000Z</updated>
+  <updated>2016-09-07T08:43:22.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SSH tunnel</title>
+    <link href="http://yoursite.com/2016/09/07/SSH-tunnel/"/>
+    <id>http://yoursite.com/2016/09/07/SSH-tunnel/</id>
+    <published>2016-09-07T08:42:47.000Z</published>
+    <updated>2016-09-07T08:43:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><code>sshuttle -r root@x.x.x.x 0/0 -vv</code></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;code&gt;sshuttle -r root@x.x.x.x 0/0 -vv&lt;/code&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="Linxu" scheme="http://yoursite.com/categories/Linxu/"/>
+    
+    
+      <category term="ssh" scheme="http://yoursite.com/tags/ssh/"/>
+    
+      <category term="vpn" scheme="http://yoursite.com/tags/vpn/"/>
+    
+  </entry>
   
   <entry>
     <title>Mongo no schema</title>
