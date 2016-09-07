@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-07T08:43:22.000Z</updated>
+  <updated>2016-09-07T08:45:44.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/09/07/SSH-tunnel/"/>
     <id>http://yoursite.com/2016/09/07/SSH-tunnel/</id>
     <published>2016-09-07T08:42:47.000Z</published>
-    <updated>2016-09-07T08:43:22.000Z</updated>
+    <updated>2016-09-07T08:45:44.000Z</updated>
     
     <content type="html"><![CDATA[<p><code>sshuttle -r root@x.x.x.x 0/0 -vv</code></p>
 ]]></content>
@@ -32,7 +32,7 @@
     
     </summary>
     
-      <category term="Linxu" scheme="http://yoursite.com/categories/Linxu/"/>
+      <category term="Linux" scheme="http://yoursite.com/categories/Linux/"/>
     
     
       <category term="ssh" scheme="http://yoursite.com/tags/ssh/"/>
